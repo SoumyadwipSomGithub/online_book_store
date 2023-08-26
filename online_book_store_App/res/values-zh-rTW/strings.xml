@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">找書去</string>
+    <string name="btn_convert_isbn10_text">轉為 ISBN-10</string>
+    <string name="btn_convert_restore_text">轉為 ISBN-13</string>
+    
+    <string name="edit_isbn_hint_text">輸入 ISBN</string>
+    <string name="btn_find_text">尋找</string>
+    <string name="btn_scan_find_text">掃描條碼</string>
+	<string name="text_recent_text">最近查詢:</string>
+
+	<string name="text_price_text">%s 元</string>
+	<string name="loading_price_info_text">讀取價格資訊中..</string>
+	<string name="loading_book_info_text">讀取書籍資訊中..</string>
+	
+	<string name="error_text">錯誤</string>
+	<string name="not_found_text">網站中無此書資料</string>
+	<string name="back_text">返回</string>
+
+	<string name="menu_settings_text">設定</string>
+	<string name="menu_about_text">關於</string>
+
+	<string name="pref_load_info_title_text">載入封面/原價資訊</string>
+	<string name="pref_load_info_summary_text">取消可較快得到價格結果</string>
+
+	<string name="pref_chosen_bookstore_text">選擇網路書店</string>
+	<string name="pref_store_findbook_title_text">翻書客</string>
+	<string name="pref_store_findbook_summary_text">findbook.tw</string>
+	<string name="pref_store_eslite_title_text">誠品</string>
+	<string name="pref_store_eslite_summary_text">www.eslite.com</string>
+	<string name="pref_store_books_title_text">博客來</string>
+	<string name="pref_store_books_summary_text">www.books.com.tw</string>
+	<string name="pref_store_sanmin_title_text">三民</string>
+	<string name="pref_store_sanmin_summary_text">www.sanmin.com.tw</string>
+	<string name="pref_store_kingstone_title_text">金石堂</string>
+	<string name="pref_store_kingstone_summary_text">www.kingstone.com.tw</string>
+	<string name="pref_store_tenlong_title_text">天瓏</string>
+	<string name="pref_store_tenlong_summary_text">www.tenlong.com.tw</string>	
+	<string name="pref_store_pchome_title_text">PCHome</string>
+	<string name="pref_store_pchome_summary_text">shopping.pchome.com.tw</string>
+</resources>
